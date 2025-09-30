@@ -1,0 +1,16 @@
+<!DOCTYPE html>
+<html Lang="es">
+<head>
+    <meta charset="UTF-8">
+    <title>Examen</title>
+</head>
+<body>
+    <header>
+        <h1 style="text-align:center;">Examen Horacio</h1>
+      </header>       
+      <main>
+            <header>
+                <h4>Parte del examen de Anthony Patricio Henriquez Gomez</h4>
+                <p>Esta es mi parte del trabajo</p>
+            </header>
+      </main>
